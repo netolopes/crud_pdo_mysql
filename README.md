@@ -1,5 +1,7 @@
 # crud_pdo_mysql
 
+TABELA  UTILIZAR INNODB
+
 CREATE TABLE users(
     id INT NOT NULL AUTO_INCREMENT, -- id
     name VARCHAR(60) NOT NULL, -- nome
